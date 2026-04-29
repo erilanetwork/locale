@@ -7,6 +7,6 @@
     "command.ping.name": "ping",
     "command.ping.description": "Shows your in-game latency",
 
-    "message.ping.player": "&3Your in-game latency: §f%ping% ms"
+    "message.ping.player": "&3Your in-game latency: &f%ping% ms"
   }
 }
