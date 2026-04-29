@@ -1,0 +1,12 @@
+{
+  "displayName": "Türkçe",
+  "name": "tr-TR",
+  "flag": "https://cdn.erilanetwork.com/img/flags/turkish.png",
+  "translators": ["xRookieFight"],
+  "translations": {
+    "command.ping.name": "gecikme",
+    "command.ping.description": "Oyun içi gecikmeni gösterir.",
+
+    "message.ping.player": "&3Oyun içi gecikmen: &f%ping% ms"
+  }
+}
