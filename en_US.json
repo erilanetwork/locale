@@ -1,0 +1,12 @@
+{
+  "displayName": "English",
+  "name": "en-US",
+  "flag": "https://cdn.erilanetwork.com/img/flags/english.png",
+  "translators": ["xRookieFight"],
+  "translations": {
+    "command.ping.name": "ping",
+    "command.ping.description": "Shows your in-game latency",
+
+    "message.ping.player": "&3Your in-game latency: §f%ping% ms"
+  }
+}
