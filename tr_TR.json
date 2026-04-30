@@ -110,7 +110,7 @@
     "message.dailyreward.success": "&aBaşarılı bir şekilde günlük ödülünü aldın.",
     "message.dailyreward.inventory_full": "&cEnvanterin dolu!",
 
-    "message.join.welcome": "&6>&7--------------*_*--------------&6<\n&6>                                              &6<\n&6>               &bErila&fNetwork               &6<\n&6>               &6ConCon&fCraft               &6<\n&6>                                              &6<\n&6>&7--------------*_*--------------&6<\n\n",
+    "message.join.welcome": "&6>&7--------------*_*--------------&6<\n&6>                                              &6<\n&6>               &bErila&fNetwork               &6<\n&6>               &cLife&7Steal &6SMP              &6<\n&6>                                              &6<\n&6>&7--------------*_*--------------&6<\n\n",
 
     "message.kick.name_changed": "&cIsim değiştirilen hesap ile oynayamazsınız!\n&cLütfen yöneticilerle iletişime geçiniz.\n\n&c&l»&r&c DISCORD:&c https://erilanetwork.com/dc/",
     "message.feed_success": "&aKarnınız doydu.",
@@ -328,6 +328,32 @@
     "form.otherprofile.input_title": "Profiline bakmak istediğiniz oyuncunun ismini giriniz:",
     "form.otherprofile.input_placeholder": "ÖRN: xRookieFight",
     "message.otherprofile.empty": "&cLütfen bir oyuncu ismi girin.",
-    "message.otherprofile.not_found": "&cGirdiğiniz oyuncunun profil verisi bulunamadı."
+    "message.otherprofile.not_found": "&cGirdiğiniz oyuncunun profil verisi bulunamadı.",
+
+    "message.heart.limit": "&cMaximum kalp limitine ulaştınız.",
+    "message.goldenheart.limit": "&cMaximum altın kalp limitine ulaştınız.",
+    "message.heart.used": "&aBaşarılı bir şekilde kalbi kullandınız.",
+
+    "message.fly.on": "&aUçuş modu aktif!",
+    "message.fly.off": "&cUçuş modu de-aktif!",
+
+    "message.feed.other": "&aBaşarılı bir şekilde &2%target% &aadlı kişinin karnı doyuruldu.",
+    "message.feed.notOnline": "&cBu oyuncu aktif değil.",
+
+    "form.heartuse.title": "Kalp Kullan",
+    "form.heartuse.content": "Bu kalbi kullanmak istediğine emin misin?\n&l&cNOT: &rBu işlemi daha sonra &7/cek -> Kalp Yazdır &rile ücretli bir şekilde geri alabilirsin.",
+    "form.heartuse.yes": "&2Onayla",
+    "form.heartuse.no": "&4Reddet",
+
+    "command.npcspawn.name": "npcspawn",
+    "command.npcspawn.description": "NPC oluşturmanızı sağlar.",
+    "command.npcspawn.usage": "/npcspawn",
+    "command.npcspawn.alias1": "npc",
+    "form.npcspawn.title": "NPC Menüsü",
+    "form.npcspawn.dropdown.npc": "NPC seç:",
+    "message.npcspawn.success": "&aBaşarılı bir şekilde NPC oluşturuldu.",
+
+    "message.wumpus.discord": "&9Discord sunucu linki: &fwww.erilanetwork.com/dc",
+    "inventory.trashcan.title": "&2Çöp Kutusu"
   }
 }
