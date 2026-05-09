@@ -2,7 +2,7 @@
   "displayName": "Türkçe",
   "name": "tr-TR",
   "flag": "https://cdn.erilanetwork.com/img/flags/turkish.png",
-  "translators": ["xRookieFight"],
+  "translators": ["xRookieFight", "SemihAkin685"],
   "translations": {
     "command.ping.name": "gecikme",
     "command.ping.description": "Oyun içi gecikmeni gösterir.",
@@ -111,6 +111,7 @@
     "message.dailyreward.inventory_full": "&cEnvanterin dolu!",
 
     "message.join.welcome": "&6>&7--------------*_*--------------&6<\n&6>                                              &6<\n&6>               &bErila&fNetwork               &6<\n&6>               &cLife&7Steal &6SMP              &6<\n&6>                                              &6<\n&6>&7--------------*_*--------------&6<\n\n",
+    "message.join.hub.welcome": "&6>&7--------------*_*--------------&6<\n&6>                                              &6<\n&6>               &bErila&fNetwork               &6<\n&6>                     &6HUB                    &6<\n&6>                                              &6<\n&6>&7--------------*_*--------------&6<\n\n&6&b» HUB sunucumuza hoş geldin, sunuculara bağlanmak için pusuladan bir oyun modu seç!\n",
 
     "message.kick.name_changed": "&cIsim değiştirilen hesap ile oynayamazsınız!\n&cLütfen yöneticilerle iletişime geçiniz.\n\n&c&l»&r&c DISCORD:&c https://erilanetwork.com/dc/",
     "message.feed_success": "&aKarnınız doydu.",
@@ -354,6 +355,37 @@
     "message.npcspawn.success": "&aBaşarılı bir şekilde NPC oluşturuldu.",
 
     "message.wumpus.discord": "&9Discord sunucu linki: &fwww.erilanetwork.com/dc",
-    "inventory.trashcan.title": "&2Çöp Kutusu"
+    "inventory.trashcan.title": "&2Çöp Kutusu",
+
+    "command.killentity.name": "killentity",
+    "command.killentity.description": "Seçtiğiniz entityi öldürür.",
+    "command.killentity.usage": "/killentity",
+
+    "command.killentity.modeOn": "&aBaşarılı bir şekilde entity öldürme modu açıldı.",
+    "command.killentity.modeOff": "&cBaşarılı bir şekilde entity öldürme modu kapatıldı.",
+
+    "command.editormode.name": "editormode",
+    "command.editormode.description": "Editör modunu değiştirir.",
+    "command.editormode.usage": "/editormode",
+    "command.editormode.alias1": "editor",
+
+    "command.editormode.modeOn": "&aBaşarılı bir şekilde editör modu açıldı.",
+    "command.editormode.modeOff": "&cBaşarılı bir şekilde editör modu kapatıldı.",
+
+    "command.settings.name": "settings",
+    "command.settings.description": "Ayarlar menüsünü açar.",
+    "command.settings.usage": "/settings",
+    "command.settings.alias1": "ayarlar",
+
+    "command.cosmetics.name": "cosmetics",
+    "command.cosmetics.description": "Kozmetik menüsünü açar.",
+    "command.cosmetics.usage": "/cosmetics",
+    "command.cosmetics.alias1": "kozmetik",
+
+    "command.gameselector.name": "gameselector",
+    "command.gameselector.description": "Oyun seçim menüsünü açar.",
+    "command.gameselector.usage": "/gameselector",
+    "command.gameselector.alias1": "sunucular",
+    "command.gameselector.alias2": "oyunlar"
   }
 }
